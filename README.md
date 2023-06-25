@@ -10,7 +10,7 @@ This a Portfolio Landing Page made with HTML and CSS
 
   <h2 align="center">Landing Page -Portfolio Website</h2>
 
-  THis is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  THis is a fully responsive portfolio landing page, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://krishn404.vercel.app/"><strong>➥ Live Demo</strong></a>
 
